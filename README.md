@@ -1,6 +1,6 @@
 # Dungeon Back
 
-![logo](https://imgur.com/a3d5154f-12db-4761-895b-56e65cfb2313)
+![logo](https://i.imgur.com/U7w0wjZ.png)
 
 ## Краткое описание
 В __Dungeon Back__ игрок занимается реставрацией подземелья,<br/> которое регулярно рейдят герои.
