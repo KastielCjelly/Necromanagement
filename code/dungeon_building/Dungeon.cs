@@ -28,7 +28,7 @@ namespace NecroManagement.DungeonBuilding {
             _rooms.Add(room);
             for (var x = (int)room.Position.x; x < room.Size.x; x++) {
                 for (var y = (int)room.Position.y; y < room.Size.y; y++) {
-                    Walls.SetCell(x, y, MagicConstants.AIR_CELL);
+                    Walls.SetCell(x, y, MagicConstants.ROOM_CELL);
                 }
             }
             room.Fill((x) => Walls.MapToWorld(x));

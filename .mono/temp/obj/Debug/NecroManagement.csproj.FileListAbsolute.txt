@@ -7,3 +7,4 @@
 /mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.csproj.CoreCompileInputs.cache
 /mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.dll
 /mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.pdb
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.sourcelink.json
