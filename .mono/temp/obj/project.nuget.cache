@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1kyp6z+J0qaKwPzUl+8us0ROHZfs/k8CEF+SdxJt/YNqWv6u5CJqwF/fBNQ6AgDKTjvWS6/s0OgEzPKrAm93A==",
+  "success": true,
+  "projectFilePath": "/mnt/GreatGooseGames_StudioLemon/NecroManagement/NecroManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/kastiel/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/kastiel/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

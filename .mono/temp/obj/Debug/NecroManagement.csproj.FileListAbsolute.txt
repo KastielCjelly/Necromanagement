@@ -1,0 +1,9 @@
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/bin/Debug/NecroManagement.dll
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/bin/Debug/NecroManagement.pdb
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.csproj.AssemblyReference.cache
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.AssemblyInfoInputs.cache
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.AssemblyInfo.cs
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.csproj.CoreCompileInputs.cache
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.dll
+/mnt/GreatGooseGames_StudioLemon/NecroManagement/.mono/temp/obj/Debug/NecroManagement.pdb

@@ -1,0 +1,115 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://assets/gui/bound_side_v.png" type="Texture" id=1]
+[ext_resource path="res://assets/gui/bound_corner_ur.png" type="Texture" id=2]
+[ext_resource path="res://assets/gui/bound_corner_ul.png" type="Texture" id=3]
+[ext_resource path="res://assets/gui/bound_side_h.png" type="Texture" id=4]
+[ext_resource path="res://assets/gui/bound_corner_dl.png" type="Texture" id=5]
+[ext_resource path="res://assets/gui/bound_corner_dr.png" type="Texture" id=6]
+
+[node name="Panel" type="Panel"]
+anchor_right = 0.07
+anchor_bottom = 0.12
+margin_right = 0.32
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="D" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 24.0
+margin_top = -24.0
+margin_right = -24.0
+texture = ExtResource( 4 )
+stretch_mode = 2
+flip_v = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="UL" type="TextureRect" parent="."]
+anchor_right = 0.333
+anchor_bottom = 0.333
+margin_right = 0.0240002
+margin_bottom = 0.0240002
+texture = ExtResource( 3 )
+stretch_mode = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="U" type="TextureRect" parent="."]
+anchor_right = 1.0
+margin_left = 24.0
+margin_right = -24.0
+margin_bottom = 24.0
+grow_vertical = 0
+texture = ExtResource( 4 )
+stretch_mode = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="UR" type="TextureRect" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -24.0
+margin_bottom = 24.0
+texture = ExtResource( 2 )
+stretch_mode = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="L" type="TextureRect" parent="."]
+anchor_bottom = 1.0
+margin_top = 24.0
+margin_right = 24.0
+margin_bottom = -24.0
+grow_horizontal = 0
+texture = ExtResource( 1 )
+stretch_mode = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="R" type="TextureRect" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -24.0
+margin_top = 24.0
+margin_bottom = -24.0
+grow_horizontal = 0
+texture = ExtResource( 1 )
+stretch_mode = 2
+flip_h = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DL" type="TextureRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -24.0
+margin_right = 24.0
+texture = ExtResource( 5 )
+stretch_mode = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DR" type="TextureRect" parent="."]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -24.0
+margin_top = -24.0
+texture = ExtResource( 6 )
+stretch_mode = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
